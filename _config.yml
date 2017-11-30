@@ -25,8 +25,8 @@ paginate_path: /page/:num
 
 # jekyll seo tag settings
 logo: assets/images/example-image.png
-twitter:
-  username: lifeIsGame
+#twitter:
+#  username: lifeIsGame_MRM
 
 # Build settings
 markdown: kramdown
